@@ -1,1 +1,1 @@
-# -code_thinking
+# code_thinking
